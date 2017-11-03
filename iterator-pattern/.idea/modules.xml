@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iteratorpattern.iml" filepath="$PROJECT_DIR$/.idea/modules/iteratorpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iteratorpattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/iteratorpattern_main.iml" group="iteratorpattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iteratorpattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/iteratorpattern_test.iml" group="iteratorpattern" />
+    </modules>
+  </component>
+</project>
